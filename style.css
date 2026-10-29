@@ -242,9 +242,9 @@ header .nav, .sticky{
     flex-wrap: wrap;
     justify-content: flex-start; /* nasa kaliwa */
     align-items: center;
-    gap: 20px;                   /* espasyo sa pagitan ng dalawang logo */
-    width: 100%;                 /* o 50% kung gusto mo talaga */
-    padding: 200px;               /* hindi 500px */
+    gap: 10px;                   /* espasyo sa pagitan ng dalawang logo */
+    width: 10%;                 /* o 50% kung gusto mo talaga */
+    padding: 20px;               /* hindi 500px */
     box-sizing: border-box;      /* para hindi lumampas ang width */
 }
 
